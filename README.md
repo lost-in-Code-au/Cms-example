@@ -10,7 +10,7 @@ Things you may want to cover:
   - Rails 6.0.2.1
 * System dependencies
   - ActiveAdmin
-  -Slickr
+  - Slickr
 * Configuration
 
 * Database creation
