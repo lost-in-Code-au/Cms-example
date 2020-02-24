@@ -13,6 +13,9 @@ gem 'cancancan'
 gem 'draper'
 gem 'pundit'
 
+# support for heroku vips
+gem 'ruby-vips'
+
 # Slickr gems
 gem 'activesupport'
 
