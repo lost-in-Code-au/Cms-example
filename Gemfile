@@ -16,9 +16,8 @@ gem 'pundit'
 # Slickr gems
 gem 'activesupport'
 
-gem 'active_admin_slickr',  path: '/Users/lost-in-code/development/active_admin_slickr'
-gem 'slickr_cms', git: 'https://github.com/primate-inc/slickr.git', branch: 'master_previewable'
-
+gem 'active_admin_slickr',  git: 'https://github.com/lost-in-Code-au/active_admin_slickr.git'
+gem 'slickr_cms', git: 'https://github.com/lost-in-Code-au/slickr.git', branch: 'master_previewable'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'

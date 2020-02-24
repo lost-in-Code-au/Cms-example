@@ -9069,9 +9069,9 @@ slash@^1.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
   integrity sha1-xB8vbDn8FtHNF61LXYlhFK5HDVU=
 
-"slickr_cms@git+https://github.com/primate-inc/slickr#master":
+"slickr_cms@git+https://github.com/lost-in-Code-au/slickr#master_previewable":
   version "0.0.1"
-  resolved "git+https://github.com/primate-inc/slickr#d2b4a5156535b9e383576be584077d318ae0f2bf"
+  resolved "git+https://github.com/lost-in-Code-au/slickr#03973e9d96041d7e692e88df0bed8ee110590a85"
   dependencies:
     babel-core "^6.26.0"
     babel-loader "7.x"

@@ -2,7 +2,7 @@
   "name": "cms_example",
   "private": true,
   "dependencies": {
-    "slickr_cms": "git+https://github.com/primate-inc/slickr#master",
+    "slickr_cms": "git+https://github.com/lost-in-Code-au/slickr#master_previewable",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",

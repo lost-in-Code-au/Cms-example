@@ -11,7 +11,8 @@ Things you may want to cover:
 * System dependencies
   - ActiveAdmin
   - Slickr
-  brew install:
+
+  had to brew install after slickr to support it:
     vips
     glib
 * Configuration
@@ -32,8 +33,10 @@ Things you may want to cover:
 
 
 Notes to cover:
+  install rail app command: 	rails new cms-example --database=postgresql --webpack
 
-ome setup you must do manually if you haven't yet:
+  
+some setup you must do manually if you haven't yet:
 
   1. Ensure you have defined default url options in your environments files. Here
      is an example of default_url_options appropriate for a development environment
