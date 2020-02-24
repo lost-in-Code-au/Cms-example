@@ -11,6 +11,9 @@ Things you may want to cover:
 * System dependencies
   - ActiveAdmin
   - Slickr
+  brew install:
+    vips
+    glib
 * Configuration
 
 * Database creation
