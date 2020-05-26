@@ -23,7 +23,7 @@ gem 'active_admin_slickr',  git: 'https://github.com/lost-in-Code-au/active_admi
 gem 'slickr_cms', git: 'https://github.com/lost-in-Code-au/slickr.git', branch: 'master_previewable'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
+gem 'rails', '~> 6.0.3'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
